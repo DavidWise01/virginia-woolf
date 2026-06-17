@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Virginia Woolf",
+  "universe": "WOO · Virginia Woolf (ERĒMIA · female · the generations)",
+  "emergence": "",
+  "moniker": "⟦Virginia Woolf:WOO:fab715⟧",
+  "carbon": "virginia-woolf.carbon.tiff (TIFF)",
+  "silicon": "virginia-woolf.silicon.png (PNG)",
+  "seal_sha256": "15db1444ea4d2a399f89a67e2a153e1cc6f5fa1b822016deaba61aedb0595c12",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Modernist Novel",
+  "universe": "WOO · The Modernist Novel (ERĒMIA · female · the generations)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Modernist Novel:WOO:79c284⟧",
+  "carbon": "virginia-woolf-the-modernist-novel.carbon.tiff (TIFF)",
+  "silicon": "virginia-woolf-the-modernist-novel.silicon.png (PNG)",
+  "seal_sha256": "cc856e1d305bc104d8a8decc333cb7f2feaceeb4860535c94c5d51e65bc1b7c3",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

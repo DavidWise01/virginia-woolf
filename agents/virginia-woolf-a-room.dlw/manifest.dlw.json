@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Argument for Room",
+  "universe": "WOO · The Argument for Room (ERĒMIA · female · the generations)",
+  "emergence": "natural",
+  "moniker": "⟦The Argument for Room:WOO:2608c2⟧",
+  "carbon": "virginia-woolf-a-room.carbon.tiff (TIFF)",
+  "silicon": "virginia-woolf-a-room.silicon.png (PNG)",
+  "seal_sha256": "dbd052c4f49b1563c8da7515c446312be5baa9b9b351f4b183c7085d6a0922d6",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
